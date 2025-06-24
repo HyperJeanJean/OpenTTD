@@ -34,9 +34,9 @@ enum GenerateLandscapeWidgets : WidgetID {
 	WID_GL_START_DATE_TEXT,             ///< Start year.
 	WID_GL_START_DATE_UP,               ///< Increase start year.
 
-	WID_GL_SNOW_COVERAGE_DOWN,          ///< Decrease snow coverage.
-	WID_GL_SNOW_COVERAGE_TEXT,          ///< Snow coverage.
-	WID_GL_SNOW_COVERAGE_UP,            ///< Increase snow coverage.
+	WID_GL_SNOW_LINE_HEIGHT_DOWN,       ///< Decrease snow line height.
+	WID_GL_SNOW_LINE_HEIGHT_TEXT,       ///< Snow line height.
+	WID_GL_SNOW_LINE_HEIGHT_UP,         ///< Increase snow line height.
 
 	WID_GL_DESERT_COVERAGE_DOWN,        ///< Decrease desert coverage.
 	WID_GL_DESERT_COVERAGE_TEXT,        ///< Desert coverage.

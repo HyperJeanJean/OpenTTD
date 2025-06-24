@@ -1511,15 +1511,6 @@ static uint CalculateCoverageLine(uint coverage, uint edge_multiplier)
 }
 
 /**
- * Calculate the line from which snow begins.
- */
-static void CalculateSnowLine()
-{
-	/* We do not have snow sprites on coastal tiles, so never allow "1" as height. */
-	_settings_game.game_creation.snow_line_height = std::max(CalculateCoverageLine(_settings_game.game_creation.snow_coverage, 0), 2u);
-}
-
-/**
  * Calculate the line (in height) between desert and tropic.
  * @return The height of the line between desert and tropic.
  */
@@ -1614,10 +1605,6 @@ bool GenerateLandscape(uint8_t mode)
 	IncreaseGeneratingWorldProgress(GWP_LANDSCAPE);
 
 	switch (_settings_game.game_creation.landscape) {
-		case LandscapeType::Arctic:
-			CalculateSnowLine();
-			break;
-
 		case LandscapeType::Tropic: {
 			uint desert_tropic_line = CalculateDesertLine();
 			CreateDesertOrRainForest(desert_tropic_line);
