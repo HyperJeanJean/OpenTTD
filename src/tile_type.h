@@ -32,6 +32,7 @@ static const uint MAX_MAP_HEIGHT_LIMIT = MAX_TILE_HEIGHT;      ///< Upper bound 
 static const uint MIN_SNOWLINE_HEIGHT = 2;                     ///< Minimum snowline height
 static const uint DEF_SNOWLINE_HEIGHT = 4;                     ///< Default snowline height
 static const uint MAX_SNOWLINE_HEIGHT = (MAX_TILE_HEIGHT - 2); ///< Maximum allowed snowline height
+static const uint DEF_SNOWLINE_HEIGHT_SCENARIO = 10;           ///< Default snowline height for scenario
 
 static const uint DEF_DESERT_COVERAGE = 50;                    ///< Default desert coverage.
 
