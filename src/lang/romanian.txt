@@ -3316,10 +3316,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Cel mai 
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Alegeți cel mai înalt vârf pe care jocul va încerca să îl creeze, măsurat în altitudine deasupra nivelului mării
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Crește cu o unitate înălțimea maximă a celui mai înalt vârf al hărții
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Redu cu o unitate înălțimea maximă a celui mai înalt vârf al hărții
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Acoperire cu zăpadă:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Mărește acoperirea cu zăpadă cu zece procente
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Reduce acoperirea cu zăpadă cu zece procente
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Acoperire cu deșert:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Mărește întinderea deșertului cu zece procente
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Reduce întinderea deșertului cu zece procente
@@ -3384,7 +3380,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Înălțimea maximă dorită
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Cel mai înalt vârf
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Acoperire cu zăpadă (în %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Acoperire cu deșert (în %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Modifică anul de început
 

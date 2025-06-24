@@ -3526,10 +3526,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Высо
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Укажите максимальную высоту гор, создаваемых генератором карт (относительно уровня моря)
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Увеличить максимальную высоту гор на карте на 1
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Уменьшить максимальную высоту гор на карте на 1
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Снежное покрытие:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Увеличить площадь снежного покрытия на 10%
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Уменьшить площадь снежного покрытия на 10%
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Песчаное покрытие:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Увеличить площадь песчаного покрытия на 10%
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Уменьшить площадь песчаного покрытия на 10%
@@ -3594,7 +3590,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} �
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Максимальная высота
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Cамая высокая вершина
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Снежное покрытие (в %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Песчаное покрытие (в %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Изменить год начала игры
 

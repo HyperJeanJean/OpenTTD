@@ -3409,10 +3409,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Legmagas
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}A legmagasabb csúcspont beállítása, amit a játék megpróbáljon létrehozni, a tengerszint feletti magasságban mérve.
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}A térkép legmagasabb pontjának tengerszint feletti magasságának növelése eggyel
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}A térkép legmagasabb pontjának tengerszint feletti magasságának csökkentése eggyel
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Havas terület kiterjedése:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}A havas terület kiterjedésének növelése 10%-kal
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}A havas terület kiterjedésének csökkentése 10%-kal
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Sivatag kiterjedése:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}A sivatag kiterjedésének növelése 10%-kal
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}A sivatag kiterjedésének csökkentése 10%-kal
@@ -3477,7 +3473,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}A legmagasabb pont tengerszint feletti magassága
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Legmagasabb pont
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}A havas terület kiterjedése (százalékban)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}A sivatag kiterjedése (százalékban)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Kezdő év megváltoztatása
 

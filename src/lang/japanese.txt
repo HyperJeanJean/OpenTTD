@@ -3109,10 +3109,6 @@ STR_MAPGEN_NUMBER_OF_INDUSTRIES                                 :{BLACK}産業�
 STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}最高峰:
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}マップの最高峰の値を1増やします
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}マップの最高峰の値を1減らします
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}降雪量:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}積雪量を10%増やします
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}積雪量を10％減らします
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK} {NUM}％
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}砂漠の範囲:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}砂漠の範囲を10％増やします
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}砂漠の範囲を10％減らします
@@ -3172,7 +3168,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} �
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}ターゲットの最高の高さ
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}最高峰
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}積雪量(%)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}砂漠の範囲(%)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}開始年の変更
 

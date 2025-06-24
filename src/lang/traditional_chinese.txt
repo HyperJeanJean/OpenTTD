@@ -3345,10 +3345,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}最高�
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}選擇遊戲版圖內最高峰的海拔，以海平面為基準計算
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}將地圖上最高峰的最大高度增加1
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}將地圖上最高峰的最大高度減少1
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}雪地覆蓋率:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}將雪地覆蓋率提高10%
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}將雪地覆蓋率降低10%
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}沙漠覆蓋率:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}將沙漠覆蓋率提高10%
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}將沙漠覆蓋率降低10%
@@ -3413,7 +3409,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}最高峰目標高度
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}最高峰
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}雪地覆蓋率 (%)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}沙漠覆蓋率 (以百分比%計算)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}修改開始年份
 

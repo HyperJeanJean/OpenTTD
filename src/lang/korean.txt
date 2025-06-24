@@ -3352,10 +3352,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}가장 �
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}해수면을 기준으로, 게임이 생성하려고 하는 가장 높은 곳의 높이를 선택합니다.
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}지도에서 가장 높은 지점의 최대 높이를 1만큼 높입니다
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}지도에서 가장 높은 지점의 최대 높이를 1만큼 낮춥니다
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}눈 비율:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}눈 지역의 비율을 10%p 늘립니다.
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}눈 지역의 비율을 10%p 줄입니다.
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}사막 비율:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}눈이 내린 곳의 비율을 10%p 줄입니다.
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}사막 지역의 비율을 10%p 줄입니다.
@@ -3420,7 +3416,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}목표 정상 높이
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}가장 높은 지점의 높이
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}눈 비율 (% 단위)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}사막 비율 (% 단위)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}시작 연도 변경
 

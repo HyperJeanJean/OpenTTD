@@ -3333,10 +3333,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Högsta 
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Välj den högsta toppen som spelet kommer försöka skapa, mätt som höjd över havsnivån
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Öka högsta höjd punkten på kartan med en
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Minska maximal höjd på högsta topp med en
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Snötäckning:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Öka snötäckning med tio procent
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Minska snötäckning med tio procent
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Ökentäckning:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Öka ökentäckning med tio procent
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Minska ökentäckning med tio procent
@@ -3401,7 +3397,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Måltopp höjd
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Högsta höjdpunkt
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Snötäckning (i %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Ökentäckning (i %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Ändra Startår
 

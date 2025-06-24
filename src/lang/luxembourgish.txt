@@ -3326,10 +3326,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Héchste
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Wiel den héchste Punkt den d'Spill probéiert ze erstellen, gemooss an Héicht iwwert dem Mieresspigel
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Setzt d'Maximalhéicht vum héchste Punkt op der Kaart em een erop
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Setzt d'Maximalhéicht vum héchste Punkt op der Kaart em een erof
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Schnéiundeel
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Schnéiundeel em zéng Prozent eropsetzen
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Schnéiundeel em zéng Prozent erofsetzen
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Wüstenundeel:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Wüstenundeel em zéng Prozent eropsetzen
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Wüstenundeel em zéng Prozent erofsetzen
@@ -3394,7 +3390,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Zil Gipfelhéicht
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Héchste Punkt
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Schnéiundeel (a %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Wüstenundeel (a %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Änner d'Startjoer
 

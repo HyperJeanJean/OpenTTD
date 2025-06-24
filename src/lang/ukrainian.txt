@@ -3478,10 +3478,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Найв
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Обрати найвищу гору відносно рівня моря, яку гра спробує створити.
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Збільшити на одиницю максимальну висоту найвищої гори на мапі
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Зменшити на одиницю максимальну висоту найвищої гори на мапі
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Покриття снігом:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Збільшити покриття снігом на 10%
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Зменшити покриття снігом на 10%
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Покриття пустелею:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Збільшити покриття пустелею на 10%
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Зменшити покриття пустелею на 10%
@@ -3546,7 +3542,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Висота обраної гори
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Найвища гора
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Покриття снігом (у відсотках)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Покриття пустелею, у відсотках
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Змінити рік початку гри
 

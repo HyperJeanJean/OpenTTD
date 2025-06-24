@@ -3351,10 +3351,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Hoogste 
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Kies de hoogste piek die het spel probeert te creëren, gemeten in hoogte boven zeeniveau
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Verhoogt de maximale hoogte van de hoogste berg op de kaart met één
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Verlaagt de maximale hoogte van de hoogste berg op de kaart met één
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Sneeuwoppervlak:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Vergroot het sneeuwoppervlak met tien procent
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Verkleint het sneeuwoppervlak met tien procent
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Woestijnoppervlak:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Vergroot het woestijnoppervlak met tien procent
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Verkleint het woestijnoppervlak met tien procent
@@ -3419,7 +3415,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Gewenste hoogte van bergen
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Hoogste berg
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Sneeuwoppervlak (in %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Woestijnoppervlak (in %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Verander startjaar
 

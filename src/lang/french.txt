@@ -3334,10 +3334,10 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Sommet l
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Chosir le plus haut pic que le jeu pourra créer (mesuré par rapport au niveau de l'eau)
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Augmenter la hauteur maximale du plus haut sommet de la carte de un
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Diminuer la hauteur maximale du plus haut sommet de la carte de un
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Couverture de la neige:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Augmenter la couverture de neige de dix pour cent
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Diminuer la couverture de neige de dix pour cent
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
+STR_MAPGEN_SNOW_LINE_HEIGHT                                     :{BLACK}Altitude d'enneigement:
+STR_MAPGEN_SNOW_LINE_HEIGHT_UP_TOOLTIP                          :{BLACK}Augmenter l'altitude d'enneigement de un
+STR_MAPGEN_SNOW_LINE_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Diminuer l'altitude d'enneigement de un
+STR_MAPGEN_SNOW_LINE_HEIGHT_TEXT                                :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Couverture du désert:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Augmenter la couverture du désert de dix pour cent
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Diminuer la couverture du désert de dix pour cent
@@ -3402,7 +3402,7 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM}{N
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Hauteur du pic
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Le point le plus haut
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Couverture de neige (en %)
+STR_MAPGEN_SNOW_LINE_HEIGHT_QUERY_CAPT                          :{WHITE}Altitude d'enneigement
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Couverture du désert (en %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Modifier l'année de départ
 

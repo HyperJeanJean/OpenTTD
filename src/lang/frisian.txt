@@ -2616,7 +2616,6 @@ STR_MAPGEN_TOWN_NAME_LABEL                                      :{BLACK}Stêdnam
 STR_MAPGEN_TOWN_NAME_DROPDOWN_TOOLTIP                           :{BLACK}Selektearje nammestyl
 STR_MAPGEN_DATE                                                 :{BLACK}Datum:
 STR_MAPGEN_NUMBER_OF_INDUSTRIES                                 :{BLACK}Oantal yndustrien:
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Snie-oerflak:
 STR_MAPGEN_TERRAIN_TYPE                                         :{BLACK}Terreintype:
 STR_MAPGEN_SEA_LEVEL                                            :{BLACK}Seenivo:
 STR_MAPGEN_QUANTITY_OF_RIVERS                                   :{BLACK}Rivieren:
@@ -2664,7 +2663,6 @@ STR_MAPGEN_HEIGHTMAP_NAME                                       :{BLACK}Namme hi
 STR_MAPGEN_HEIGHTMAP_SIZE_LABEL                                 :{BLACK}Grutte:
 STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x {NUM}
 
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Snie-oerflak (yn %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{BLACK}Startjier oanpasse
 
 # SE Map generation

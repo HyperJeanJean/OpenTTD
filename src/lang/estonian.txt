@@ -3316,10 +3316,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Kõrgpun
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Vali kõrgeim punkt, mida mäng saab teha, mõõtes kõrguses üle merepinna
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Suurenda kaardi kõrgpunkti ühe võrra
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Vähenda kaardi kõrgpunkti ühe võrra
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Lumekatvus:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Suurenda lumekatvust kümne protsendi võrra
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Vähenda lumekatvust kümne protsendi võrra
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Kõrbekatvus:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Suurenda kõrbekatvust kümne protsendi võrra
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Vähenda kõrbekatvust kümne protsendi võrra
@@ -3384,7 +3380,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Soovitud kõrgpunkt
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Kõrgpunkt
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Lumekatvus (%)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Kõrbekatvus (%)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Muuda algusaastat
 

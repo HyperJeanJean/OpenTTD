@@ -3278,10 +3278,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}En yüks
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Oyunun oluşturmaya çalışacağı en yüksek zirve yüksekliğini seçin. Yükseklik deniz seviyesinden itibaren ölçülür.
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Haritadaki en yüksek tepenin azami yüksekliğini 1 arttırın
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Haritadaki en yüksek tepenin azami yüksekliğini 1 düşürün
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Kar örtüsü:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Kar örtüsünü yüzde on arttır
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Kar örtüsünü yüzde on azalt
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}%{NUM}
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Çöl örtüsü:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Çöl örtüsünü yüzde on arttır
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Çöl örtüsünü yüzde on azalt
@@ -3346,7 +3342,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Hedef zirve yüksekliği
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}En yüksek tepe
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Kar örtüsü (% olarak)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Çöl örtüsü (% olarak)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Başlangıç yılını değiştir
 

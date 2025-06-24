@@ -3373,10 +3373,6 @@ STR_MAPGEN_NUMBER_OF_INDUSTRIES                                 :{BLACK}Broj fab
 STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Najviši vrh:
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Povećaj maksimalnu visinu najvišeg vrha za jedan korak
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Smanji maksimalnu visinu najvišeg vrha za jedan korak
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Pokrivenost snegom:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Povećaj pokrivenost snegom za deset procenata
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Smanji pokrivenost snegom za deset procenata
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Pokrivenost pustinjom:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Povećaj pokrivenost pustinjom za deset procenata
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Smanji pokrivenost pustinjom za deset procenata
@@ -3437,7 +3433,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Ciljna visina vrha
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Najviši vrh
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Pokrivenost snegom (u %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Pokrivenost pustinjom (u %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Promena početne godine
 

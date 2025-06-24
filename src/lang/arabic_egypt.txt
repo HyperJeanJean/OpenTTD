@@ -2720,9 +2720,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}أعلى
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}اختر أعلى قمة ستقوم اللعبة بمحاولة انشائها، تقاس بارتفاعها عن سطح البحر
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}قم بزيادة أقصى ارتفاع لأعلى قمة على الخريطة بواحد
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}تقليل أقصى ارتفاع لأعلى قمة في الخريطة بمقدار واحد
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}تغطية الثلج:
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}تقليل تغطية الثلوج بنسبة عشرة بالمائة
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}مدى تغطيت السحراء:
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}تقليل التغطية الصحراوية بنسبة عشرة بالمائة
 STR_MAPGEN_DESERT_COVERAGE_TEXT                                 :{BLACK}{NUM}%

@@ -3731,10 +3731,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Najwyżs
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Wybierz najwyższy szczyt, który gra spróbuje utworzyć, mierzony wysokością nad poziomem morza
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Zwiększ wysokość najwyższego szczytu na mapie o jeden poziom
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Zmniejsz wysokość najwyższego szczytu na mapie o jeden poziom
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Pokrycie śniegiem:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Zwiększ pokrycie śniegiem o 10%
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Zmniejsz pokrycie śniegiem o 10%
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Pokrycie pustynią:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Zwiększ pokrycie pustynią o 10%
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Zmniejsz pokrycie pustynią o 10%
@@ -3799,7 +3795,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Żądana wysokość najwyższego szczytu
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Najwyższy szczyt
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Pokrycie śniegiem (w %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Pokrycie pustynią (w %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Zmień datę rozpoczęcia
 

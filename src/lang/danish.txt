@@ -3341,10 +3341,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Højeste
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Vælg den højeste top, som spillet vil forsøge at skabe, målt i højde over havets overflade
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Forøger den maksimale højde på højeste bjergtop på kortet med én
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Sænker den maksimale højde på højeste bjergtop på kortet med én
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Snedække:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Forøger snedækket med ti procent
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Sænker snedækket med ti procent
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Ørkendækning:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Forøger ørkendækningen med ti procent
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Sænker ørkendækningen med ti procent
@@ -3409,7 +3405,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Ønsket højeste bjergtop
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Højeste bjergtop
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Snedække (i %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Ørkendækning (i %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Ændre startår
 

@@ -3351,10 +3351,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Korkein 
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Valitse korkein huippu, jonka peli pyrkii luomaan, mitattuna korkeutena merenpinnasta
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Korota kartan korkeimman huipun maksimikorkeutta yhdellä
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Madalla kartan korkeimman huipun maksimikorkeutta yhdellä
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Lumen peitto:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Kasvata lumen peittoa 10 prosentilla
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Vähennä lumen peittoa 10 prosentilla
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}{NBSP}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Aavikon peitto:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Kasvata aavikon peittoa 10 prosentilla
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Vähennä aavikon peittoa 10 prosentilla
@@ -3419,7 +3415,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM}×
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Huipun tavoitekorkeus
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Korkein huippu
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Lumen peitto (%)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Aavikon peitto (%)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Vaihda aloitusvuosi
 

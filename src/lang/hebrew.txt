@@ -3049,7 +3049,6 @@ STR_MAPGEN_HEIGHTMAP_NAME                                       :{BLACK} :שם �
 STR_MAPGEN_HEIGHTMAP_SIZE_LABEL                                 :{BLACK}גודל:
 STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} על {NUM}
 
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE} כיסוי שלג באחוזים
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}שנה את שנת הפתיחה
 
 # SE Map generation

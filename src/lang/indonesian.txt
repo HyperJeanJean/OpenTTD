@@ -3183,10 +3183,6 @@ STR_MAPGEN_NUMBER_OF_INDUSTRIES_TOOLTIP                         :Pilih kepadatan
 STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Puncak tertinggi:
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Menambah satu ketinggian maksimum puncak tertinggi di peta
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Kurangi satu ketinggian maksimum puncak tertinggi di peta
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Cakupan salju:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Meningkatkan cakupan salju sepuluh persen
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Kurangi cakupan salju hingga sepuluh persen
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Cakupan gurun:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Meningkatkan cakupan gurun sepuluh persen
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Kurangi cakupan gurun pasir sebesar sepuluh persen
@@ -3247,7 +3243,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Target ketinggian puncak
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Puncak tertinggi
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Cakupan salju (dalam %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Cakupan gurun (dalam %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Ubah tahun permulaan
 

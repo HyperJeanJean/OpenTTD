@@ -3326,10 +3326,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Copa uch
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Dewis y copa uchaf y bydd y gêm yn ceisio ei greu, mesurwyd o lefel y môr
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Cynyddu uchder uchafsymol y copa uchaf ar y map o un
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Lleihau uchder uchafsymol y copa uchaf ar y map o un
-STR_MAPGEN_SNOW_COVERAGE                                        :Gorchuddiad eira:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Cynyddu gorchudd eira o 10 y cant
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Lleihau gorchudd eira o 10 y cant
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Gorchudd anialwch:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Cynyddu gorchudd anialwch o 10 y cant
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Lleihau gorchudd anialwch o 10 y cant
@@ -3394,7 +3390,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Uchder brig a ddymunir
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Copa uchaf
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Gorchuddiad eira (mewn %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Gorchudd anialwch (mewn %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Newid y flwyddyn gychwyn
 

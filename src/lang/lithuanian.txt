@@ -3403,10 +3403,6 @@ STR_MAPGEN_NUMBER_OF_INDUSTRIES_TOOLTIP                         :{BLACK}Pasirink
 STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Didžiausias aukštis
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Padidinti didžiausią galimą reljefo aukštį vienetu
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Sumažinti didžiausią galimą reljefo aukštį vienetu
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Sniegynų aprėptis
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Padidintį sniegynų aprėptį 10%
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Sumažinti sniegynų aprėptį 10%
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Dykumų aprėptis:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Padidinti dykumų aprėptį 10%
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Sumažinti dykumų aprėptį 10%
@@ -3469,7 +3465,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Didžiausias aukštis
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Didžiausias reljefo aukštis
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Sniegynų aprėptis (%)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Dykumų aprėptis (%)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Keisti pradžios metus
 

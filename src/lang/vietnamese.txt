@@ -3308,10 +3308,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Độ ca
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Chọn mức độ cao nhất mà trò chơi có thể tạo ra, đo đạc và nâng lên trên mực được biển
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Tăng chiều cao tối đa của đỉnh cao nhất lên một đơn vị
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Giảm độ cao tối đa của đỉnh cao nhất trên bản đồ một đơn vị
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Độ phủ địa hình tuyết:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Tăng độ phủ địa hình tuyết lên mười phần trăm
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Giảm độ phủ của tuyết đi mười phần trăm
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Độ phủ sa mạc:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Tăng độ phủ sa mạc lên mười phần trăm
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Giảm độ phủ sa mạc đi mười phần trăm
@@ -3376,7 +3372,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Độ cao tối đa của đỉnh
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Độ cao đỉnh cao nhất
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Độ phủ địa hình tuyết (giá trị %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Độ phủ sa mạc (giá trị %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Thay đổi thời điểm bắt đầu
 

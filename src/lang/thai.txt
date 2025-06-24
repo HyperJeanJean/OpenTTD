@@ -2816,7 +2816,6 @@ STR_MAPGEN_NUMBER_OF_INDUSTRIES                                 :{BLACK}จำ�
 STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}จุดที่พีคมากที่สุด:
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}เพิ่มขนาดความสูงที่สุดของยอดเขาบนแผนที่
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}ลดขนาดความสูงที่สุดของยอดเขาบนแผนที่
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}เพิ่มการครอบคลุมหิมะไปถึงสิบเปอร์เซ็นต์
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}การปกคลุมของทะเลทราย:
 STR_MAPGEN_TERRAIN_TYPE                                         :{BLACK}ประเภทภูมิประเทศ:
 STR_MAPGEN_SEA_LEVEL                                            :{BLACK}ระดับทะเล:
@@ -2866,7 +2865,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE_LABEL                                 :{BLACK}ขน�
 STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x {NUM}
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}ความสูงของแผนที่สูงสุด
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}ความสูงการปกคลุมของหิมะ (คิดเป็น %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}เปลี่ยนปีที่เริ่มต้นเกม
 
 # SE Map generation

@@ -3334,10 +3334,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Alçada 
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Trieu l'altura del cim més alt que el joc mirarà de crear, mesurat respecte el nivell de mar.
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Augmenta l'alçada màxima o l'alçada màxima dels cims en una unitat
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Redueix l'alçada màxima o l'alçada màxima dels cims en una unitat
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Proporció de terreny nevat:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Augmenta un 10 % la proporció de terreny nevat
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Redueix un 10 % la proporció de terreny nevat
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}{NBSP}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Proporció de terreny desèrtic:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Augmenta un 10 % la proporció de terreny desèrtic
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Redueix un 10 % la proporció de terreny desèrtic
@@ -3402,7 +3398,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Alçada desitjada dels cims
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Alçada màxima dels cims
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Percentatge de terreny amb neu
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Percentatge de terreny desèrtic
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Canviar l'any inicial
 

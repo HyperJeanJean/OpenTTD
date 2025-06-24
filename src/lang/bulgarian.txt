@@ -3299,10 +3299,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Най-�
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Изберете най-високия връх, който играта ще се опита да създаде, измерен във височина над морското равнище
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Увеличете максималната височина на най-високия връх на картата с едно
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Намалете максималната височина на най-високия връх на картата с едно
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Снежно покритие:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Увеличи снежното покритие с десет процента
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Намали снежното покритие с десет процента
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Пустинно покритие:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Увеличаване на пустинното покритие с десет процента
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Намаляване на пустиното покритие с десет процента
@@ -3367,7 +3363,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Целева максимална височина
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Най-висок връх
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Снежно покритие (в %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Пустинно покритие (в %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Промяна началната година
 

@@ -2992,10 +2992,6 @@ STR_MAPGEN_NUMBER_OF_INDUSTRIES                                 :{BLACK}Líon na
 STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}An beann is airde:
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Méadaigh airde uasta an bhinn is airde ar an léarscáil d'aon leibhéal amháin
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Laghdaigh airde uasta an bhinn is airde ar an léarscáil d'aon leibhéal amháin
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Clúdach sneachta:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Méadaigh clúdach an tsneachta deich faoin gcéad
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Laghdaigh clúdach an tsneachta deich faoin gcéad
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Clúdach an fhásaigh:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Méadaigh clúdach an fhásaigh deich faoin gcéad
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Laghdaigh clúdach an fhásaigh deich faoin gcéad
@@ -3049,7 +3045,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Airde sprice na mbeann
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}An beann is airde
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Clúdach sneachta (i %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Clúdach an fhásaigh (i %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Athraigh an bhliain tosaigh
 
