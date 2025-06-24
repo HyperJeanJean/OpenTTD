@@ -1508,15 +1508,42 @@ static uint CalculateCoverageLine(uint coverage, uint edge_multiplier)
 	}
 
 	return best_h;
+}/**
+ * Calculate the area percentage above or equal a certain height.
+ *
+ * The function allows snow coverage to be calculated. It
+ * counts the number of tiles above the height divided
+ * by the total number of land tiles.
+ *
+ * @param height A value between 1 and MAX_TILE_HEIGHT.
+ * @return The percentage of the landmass above or equal the given height.
+ */
+static uint CalculateAreaAboveHeight(uint height)
+{
+	uint nbTilesAboveHeight = 0;
+	uint nbTotalLandTiles = 0;
+
+	for (const auto tile : Map::Iterate()) {
+		uint h = TileHeight(tile);
+
+		if (h > 0) {
+			nbTotalLandTiles++;
+		}
+
+		if (h >= height) {
+			nbTilesAboveHeight++;
+		}
+	}
+
+	return 100u * nbTilesAboveHeight / nbTotalLandTiles;
 }
 
 /**
- * Calculate the line from which snow begins.
+ * Calculate the area covered by snow.
  */
-static void CalculateSnowLine()
+static void CalculateSnowCoverage()
 {
-	/* We do not have snow sprites on coastal tiles, so never allow "1" as height. */
-	_settings_game.game_creation.snow_line_height = std::max(CalculateCoverageLine(_settings_game.game_creation.snow_coverage, 0), 2u);
+	_settings_game.game_creation.snow_coverage = CalculateAreaAboveHeight(_settings_game.game_creation.snow_line_height);
 }
 
 /**
@@ -1615,7 +1642,7 @@ bool GenerateLandscape(uint8_t mode)
 
 	switch (_settings_game.game_creation.landscape) {
 		case LandscapeType::Arctic:
-			CalculateSnowLine();
+			CalculateSnowCoverage();
 			break;
 
 		case LandscapeType::Tropic: {
