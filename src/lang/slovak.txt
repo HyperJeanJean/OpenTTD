@@ -3338,10 +3338,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Najvyš�
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Vyberte najvyšší vrchol, ktorý sa hra pokúsi vytvoriť, meraný v nadmorskej výške
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Zvýšiť maximálnu výšku najvyššieho vrchola na mape o jeden
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Znížiť maximálnu výšku najvyššieho vrchola na mape o jeden
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Pokrytie snehom:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Zvýšiť pokrytie snehom o desať percent
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Znížiť pokrytie snehom o desať percent
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Pokrytie púšťou:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Zvýšiť pokrytie púšťou o desať percent
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Znížiť pokrytie púšťou o desať percent
@@ -3406,7 +3402,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Cieľová výška vrcholu
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Najvyšší vrchol
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Pokrytie snehom (v %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Pokrytie púšťou (v %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Zmeniť rok začiatku hry
 

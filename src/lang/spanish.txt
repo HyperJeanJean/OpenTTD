@@ -3359,10 +3359,6 @@ STR_MAPGEN_HEIGHTMAP_HEIGHT                                     :{BLACK}Punto m�
 STR_MAPGEN_HEIGHTMAP_HEIGHT_TOOLTIP                             :{BLACK}Selecciona el punto más elevado que el juego intentará crear, medido en altura sobre el nivel del mar
 STR_MAPGEN_HEIGHTMAP_HEIGHT_UP_TOOLTIP                          :{BLACK}Aumenta la altura máxima del punto más alto del mapa en uno
 STR_MAPGEN_HEIGHTMAP_HEIGHT_DOWN_TOOLTIP                        :{BLACK}Reduce la altura máxima del punto más alto del mapa en uno
-STR_MAPGEN_SNOW_COVERAGE                                        :{BLACK}Extensión de la nieve:
-STR_MAPGEN_SNOW_COVERAGE_UP_TOOLTIP                             :{BLACK}Incrementar la extensión de la nieve en un diez por ciento
-STR_MAPGEN_SNOW_COVERAGE_DOWN_TOOLTIP                           :{BLACK}Reducir la extensión de la nieve en un diez por ciento
-STR_MAPGEN_SNOW_COVERAGE_TEXT                                   :{BLACK}{NUM}%
 STR_MAPGEN_DESERT_COVERAGE                                      :{BLACK}Extensión del desierto:
 STR_MAPGEN_DESERT_COVERAGE_UP_TOOLTIP                           :{BLACK}Incrementar la extensión del desierto en un diez por ciento
 STR_MAPGEN_DESERT_COVERAGE_DOWN_TOOLTIP                         :{BLACK}Reducir la extensión del desierto en un diez por ciento
@@ -3427,7 +3423,6 @@ STR_MAPGEN_HEIGHTMAP_SIZE                                       :{ORANGE}{NUM} x
 
 STR_MAPGEN_TERRAIN_TYPE_QUERY_CAPT                              :{WHITE}Objetivo de altura del punto más alto
 STR_MAPGEN_HEIGHTMAP_HEIGHT_QUERY_CAPT                          :{WHITE}Punto más alto
-STR_MAPGEN_SNOW_COVERAGE_QUERY_CAPT                             :{WHITE}Extensión de la nieve (en %)
 STR_MAPGEN_DESERT_COVERAGE_QUERY_CAPT                           :{WHITE}Extensión del desierto (en %)
 STR_MAPGEN_START_DATE_QUERY_CAPT                                :{WHITE}Cambiar año de inicio
 
