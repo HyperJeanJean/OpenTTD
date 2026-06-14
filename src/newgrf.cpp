@@ -726,13 +726,8 @@ static void CalculateRefitMasks()
 							break;
 					}
 					e->VehInfo<ShipVehicleInfo>().old_refittable = true;
-				} else if (e->type == VehicleType::Train && e->VehInfo<RailVehicleInfo>().railveh_type != RailVehicleType::Wagon) {
-					/* Train engines default to all cargoes, so you can build single-cargo consists with fast engines.
-					 * Trains loading multiple cargoes may start stations accepting unwanted cargoes. */
-					_gted[engine].cargo_allowed = {CargoClass::Passengers, CargoClass::Mail, CargoClass::Armoured, CargoClass::Express, CargoClass::Bulk, CargoClass::PieceGoods, CargoClass::Liquid};
-					_gted[engine].cargo_disallowed = {};
 				} else {
-					/* Train wagons and road vehicles are classified by their default cargo type */
+					/* Trains and road vehicles are classified by their default cargo type. */
 					CargoLabel label = GetActiveCargoLabel(ei->cargo_label);
 					for (const auto &drm : _default_refit_masks) {
 						if (!drm.climate.Test(_settings_game.game_creation.landscape)) continue;
